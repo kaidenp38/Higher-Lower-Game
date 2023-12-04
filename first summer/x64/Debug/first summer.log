@@ -1,0 +1,15 @@
+﻿  Source.c
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(26,3): warning C4013: 'Gameintro' undefined; assuming extern returning int
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(29,3): warning C4013: 'leaderboard' undefined; assuming extern returning int
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(61,3): warning C4013: 'bookscore' undefined; assuming extern returning int
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(74,3): warning C4013: 'gameplaygood' undefined; assuming extern returning int
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(86,9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(116,15): error C2065: 'fptr': undeclared identifier
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(116,15): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'int'
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(116,11): warning C4024: 'fprintf': different types for formal and actual parameter 1
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(117,15): error C2065: 'fptr': undeclared identifier
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(117,15): warning C4047: 'function': 'FILE *const ' differs in levels of indirection from 'int'
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(117,11): warning C4024: 'fprintf': different types for formal and actual parameter 1
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(120,14): error C2065: 'fptr': undeclared identifier
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(120,14): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Kaiden\Desktop\summer projects\first\first summer\Source.c(120,10): warning C4024: 'fclose': different types for formal and actual parameter 1
